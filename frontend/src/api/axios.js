@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: "https://ai-code-review-system-djup.onrender.com",
+  baseURL: "https://ai-code-review-system-backend-01py.onrender.com",
 });
 
 // Add token to every request
